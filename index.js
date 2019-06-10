@@ -3,7 +3,7 @@
 
 // This variable will be pre-programmed with our authentication key
 // (the one we received when we registered)
-var authKey = "R1a31F4tBjCUaM2ho8GtIFsrSdtXt30M";
+var authKey = "edZyxVkfNUGGly3e6g7dqALlS9TM9GsL";
 
 
 // These variables will hold the results we get from the user's inputs via HTML
